@@ -190,3 +190,25 @@ package model;
         }
     }
 
+# Output Program
+### Main Menu
+Saat program pertama kali dijalankan, akan menampilkan beberapa opsi yaitu Create, Read, Update, dan Delete
+![image](https://github.com/user-attachments/assets/86eab476-14b4-410a-8843-b0814fc15435)
+### Create
+Opsi ini memungkinkan pengguna untuk menambahkan member baru. Setelah dipilih, program akan meminta pengguna untuk memasukkan informasi member, seperti username, password, durasi, dan nomor PC yang digunakan. Setelah data dimasukkan, member akan disimpan dalam daftar.
+![image](https://github.com/user-attachments/assets/b5327816-0b48-48be-9845-08d7e15305f5)
+### Read
+Opsi ini menampilkan daftar semua member yang telah terdaftar dalam sistem. Setiap member ditampilkan dengan informasi lengkap yang meliputi username, password, durasi, dan nomor PC
+![image](https://github.com/user-attachments/assets/af70f5f0-6873-4409-bb56-98b23d29c953)
+### Update
+Opsi ini digunakan untuk memperbarui informasi dari member yang ada. Pengguna harus memasukkan username dari member yang ingin diperbarui. Setelah itu, pengguna akan diminta untuk memasukkan data baru untuk username, password, durasi penggunaan, dan nomor PC. Jika ada data yang tidak ingin diubah, pengguna dapat mengetik 0 untuk melewatkan bagian tersebut.
+![image](https://github.com/user-attachments/assets/ba81f6a9-d8d9-4c7b-b6a3-2345ab6d3e1d)
+### Delete
+Opsi ini memungkinkan pengguna untuk menghapus member dari sistem. Pengguna akan diminta memasukkan username dari member yang ingin dihapus. Jika username ditemukan, member tersebut akan dihapus dari daftar dan tidak akan muncul lagi di daftar member.
+![image](https://github.com/user-attachments/assets/83b10c42-8c30-4dca-a6e1-1bff3e39a9b7)
+### Exit
+Opsi ini digunakan untuk mengakhiri program.
+![image](https://github.com/user-attachments/assets/c22a4194-24f0-4e1c-bcf0-4b7f84399510)
+
+
+
