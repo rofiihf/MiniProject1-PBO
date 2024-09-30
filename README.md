@@ -196,6 +196,7 @@ Saat program pertama kali dijalankan, akan menampilkan beberapa opsi yaitu Creat
 ![image](https://github.com/user-attachments/assets/86eab476-14b4-410a-8843-b0814fc15435)
 ## Create
 Opsi ini memungkinkan pengguna untuk menambahkan member baru. Setelah dipilih, program akan meminta pengguna untuk memasukkan informasi member, seperti username, password, durasi, dan nomor PC yang digunakan. Setelah data dimasukkan, member akan disimpan dalam daftar
+
 ![image](https://github.com/user-attachments/assets/b5327816-0b48-48be-9845-08d7e15305f5)
 ## Read
 Opsi ini menampilkan daftar semua member yang telah terdaftar dalam sistem. Setiap member ditampilkan dengan informasi lengkap yang meliputi username, password, durasi, dan nomor PC
